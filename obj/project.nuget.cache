@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "761Zy07iI18=",
+  "success": true,
+  "projectFilePath": "/Users/vladislavmaksakov/Desktop/Learning/БПД/LR6/LR6.csproj",
+  "expectedPackageFiles": [
+    "/Users/vladislavmaksakov/.nuget/packages/microsoft.data.sqlite/10.0.2/microsoft.data.sqlite.10.0.2.nupkg.sha512",
+    "/Users/vladislavmaksakov/.nuget/packages/microsoft.data.sqlite.core/10.0.2/microsoft.data.sqlite.core.10.0.2.nupkg.sha512",
+    "/Users/vladislavmaksakov/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.11/sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "/Users/vladislavmaksakov/.nuget/packages/sqlitepclraw.core/2.1.11/sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "/Users/vladislavmaksakov/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.11/sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "/Users/vladislavmaksakov/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.11/sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
